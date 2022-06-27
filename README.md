@@ -1,6 +1,6 @@
 # Determination of Nuclear Position by the Arrangement of Actin Filaments
 
-This repository implements the training and testing for our manuscript Determination of nuclear position by the arrangement of actin filaments"".
+This repository implements the training and testing for our manuscript "From qualitative data to correlation using deep generative networks: Demonstrating the relation of nuclear position with the arrangement of actin filaments". (DOI: 10.1371/journal.pone.027105)
 
 ## Framework
 
