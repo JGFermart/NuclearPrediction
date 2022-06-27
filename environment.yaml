@@ -1,0 +1,16 @@
+name: TCell
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.5
+  - pip=20.1.1
+  - cudatoolkit=10.2
+  - pytorch=1.7.1
+  - torchvision=0.8.2
+  - numpy=1.18.5
+  - pip:
+      - imageio==2.9.0
+      - einops==0.3.0
+      - dominate==2.5.2
+      - visdom==0.1.8.9
